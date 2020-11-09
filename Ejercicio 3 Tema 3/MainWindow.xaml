@@ -14,11 +14,13 @@
         <TextBlock DockPanel.Dock="Bottom" Background="#FF0F992E" Height="100"/>
         <TextBlock DockPanel.Dock="Right" Background="#FF0F992E" Width="100"/>
 
+        
         <TextBlock DockPanel.Dock="Left" Background="#FFE82121" Width="100"/>
         <TextBlock DockPanel.Dock="Bottom" Background="#FFE82121" Height="100"/>
         <TextBlock DockPanel.Dock="Top" Background="#FFE891E4" Height="100"/>
         <TextBlock DockPanel.Dock="Right" Background="#FFE891E4" Width="100"/>
 
+        
         <TextBlock Background="Black"/>
     </DockPanel>
 </Window>
